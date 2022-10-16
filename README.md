@@ -11,7 +11,7 @@ https://solved.ac/problems/tags/bfs
 
 
 
-**좋은 알고리즘 블로그 및 **
+**좋은 알고리즘 블로그 및 자료**
 
 https://blog.encrypted.gg/941
 
