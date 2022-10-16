@@ -11,7 +11,10 @@ https://solved.ac/problems/tags/bfs
 
 
 
-**좋은 알고리즘 블로그**
+**좋은 알고리즘 블로그 및 **
+
 https://blog.encrypted.gg/941
 
 https://everenew.tistory.com/151
+
+https://www.youtube.com/watch?v=ftOmGdm95XI
