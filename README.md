@@ -5,3 +5,8 @@
 
 **참고 문제집**
 https://github.com/tony9402/baekjoon
+
+**좋은 알고리즘 블로그**
+https://blog.encrypted.gg/941
+
+https://everenew.tistory.com/151
